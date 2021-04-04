@@ -27,7 +27,7 @@
 <br>
 <a href=""><img src="https://img.icons8.com/color/40/000000/python.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/c.png"/></a>&nbsp;&nbsp;
-<a href=""><img src="https://img.icons8.com/color/40/000000/springframework.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/ubuntu.png"/></a>&nbsp;&nbsp;
 
 
 
