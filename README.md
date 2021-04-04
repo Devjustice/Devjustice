@@ -34,8 +34,7 @@
 
 ### 내 깃허브 및 언어 정보 👩‍💻 
 
-![ Devjustice의 github 통계 ]
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevjustice&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writepro4&layout=compact&hide_border=true)
 
 
@@ -45,6 +44,6 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/justice._.in/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevjustice&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
