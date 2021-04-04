@@ -1,16 +1,25 @@
-### Hi there 👋
+### 안녕하세요👋 이것저것 관심이 많은 컴린이입니다.
 
-<!--
-**Devjustice/Devjustice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/justice._.in/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-Here are some ideas to get you started:
+## Devjustice : 컴퓨터 러너입니다.
+알고리즘, 프로그래밍, 블록체인, 보안, 등등 공부 중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- Node.js
+- JSP/servlet
+- Android-Studio
+- Java,c,python basic
+- -SQL
+- Linux server building(on promise)
+- MS azure cc
+
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
