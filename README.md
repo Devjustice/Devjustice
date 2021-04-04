@@ -31,18 +31,19 @@
 
 
 
+
+### 내 깃허브 및 언어 정보 👩‍💻 
+
+![ Devjustice의 github 통계 ](https://github-readme-stats.vercel.app/api?username=writepro4&hide=prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writepro4&layout=compact&hide_border=true)
+
+
+
 <a href="https://instagram.com/justice._.in">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/justice._.in/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
-
-
-### 내 깃허브 및 언어 정보 👩‍💻 
-
-![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=writepro4&hide=prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writepro4&layout=compact&hide_border=true)
 
 
