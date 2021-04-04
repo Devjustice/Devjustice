@@ -1,6 +1,6 @@
 ### 안녕하세요👋 이것저것 관심이 많은 컴린이입니다.
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/justice._.in">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/justice._.in/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
