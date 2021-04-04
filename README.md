@@ -35,7 +35,7 @@
 ### 내 깃허브 및 언어 정보 👩‍💻 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writepro4&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devjustice&layout=compact&hide_border=true)
 
 
 
