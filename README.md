@@ -5,12 +5,32 @@
 ## Devjustice : 컴퓨터 러너입니다.
 알고리즘, 프로그래밍, 블록체인, 보안, 등등 공부 중입니다.
 
+
+
+
+
+<br>
+
+### 언어 및 도구 🐱‍💻
+
+<a href=""><img src="https://img.icons8.com/color/40/000000/flutter.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/cotton/40/000000/android-os.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/firebase.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/linux.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/plasticine/40/000000/playstore.png"/></a>&nbsp;&nbsp;
+
+
+<br>
+
+
 ## Stack
 - Node.js
 - JSP/servlet
 - Android-Studio
 - Java,c,python basic
-- -SQL
+- SQL
 - Linux server building(on promise)
 - MS azure cc
 
