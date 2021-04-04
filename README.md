@@ -22,13 +22,12 @@
 <a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/linux.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/></a>&nbsp;&nbsp;
-<a href=""><img src="https://img.icons8.com/plasticine/40/000000/playstore.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/microsoft.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/java.png"/></a>&nbsp;&nbsp;
 <br>
 <a href=""><img src="https://img.icons8.com/color/40/000000/python.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/c.png"/></a>&nbsp;&nbsp;
-<a href=""><img src="https://img.icons8.com/color/40/000000/spring.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/springframework.png"/></a>&nbsp;&nbsp;
 
 
 
