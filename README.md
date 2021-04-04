@@ -31,15 +31,6 @@
 
 
 
-## Stack
-- Node.js
-- JSP/servlet
-- Android-Studio
-- Java,c,python basic
-- SQL
-- Linux server building(on promise)
-- MS azure cc
-
 <a href="https://instagram.com/justice._.in">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/justice._.in/"
