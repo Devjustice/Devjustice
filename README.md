@@ -1,23 +1,15 @@
-### 안녕하세요👋 그냥 이것저것 관심이 많은 한량입니다.
-
-
-
+### Hello I just interest in C,Java and C# language and also want to be a Junior Developer
 <br><br>
 
 
 
 
-## Devjustice : 싸이버펑크맨입니다
-일렉트로닉 싸이버 펑크 장르영화 SF장르 좋아합니다.
-카페에서 코딩하는 낭만 따윈 없고 집에서 1660+32g ram+라이젠?3500인가? 빠른 검색을 통해 유튜브 봅니다 😂😂
-<br>요즘 하는거 -> 정보처리기사 실기 repo->languageproject:java,py,c 몇일 전부터 따라치는 중
-<br>html/css양이 많은 이유? 거의 다 그냥 복사한 탬플릿이거나 javascript 하드코딩된 문서입니다.
+## Devjustice : How really want to make some fun stuff
 <br>
-### ↓어디서 배껴온 간지나는 것
 
 <br>
 
-### 언어 및 도구 🐱‍💻
+### languages 🐱‍💻
 
 <a href=""><img src="https://img.icons8.com/cotton/40/000000/android-os.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>&nbsp;&nbsp;
@@ -33,7 +25,7 @@
 
 
 
-### 내 깃허브 및 언어 정보 👩‍💻 
+### my github information below 👩‍💻 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devjustice&layout=compact&hide_border=true)
