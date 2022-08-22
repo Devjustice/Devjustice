@@ -1,4 +1,4 @@
-### Hello I just interest in C,Java and C# language and also want to be a Junior Developer
+### Hello I just feature in C,Java and C# language and also want to be a Junior Developer
 <br><br>
 
 
