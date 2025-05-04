@@ -12,8 +12,7 @@
 3. **`sudo chown me:god /etc/destiny`** *(Permission denied)*  
 
 ### **LAST COMMIT**  
-"sudo make me_a_sandwich"
-```diff  
+
 - printf("Goodbye, cruel kernel.\n");  
 + while (1) { vibe_check(); } // Infinite loop  
 <br><br>
