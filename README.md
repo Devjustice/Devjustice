@@ -1,4 +1,21 @@
-### Have a nice day!
+### # ⚡ iq98_win98_legend ⚡  
+#### *"Segmentation fault (core dumped to /dev/heart)"*  
+
+### **ABOUT ME**  
+- **OS**: Windows 98 SE (unpatched)  
+- **Shell**: `/bin/shitpost`  
+- **Compiler flags**: `-O0 -fno-optimize-sanity`  
+- **First memory**: `0x00000000` (NULL pointer dereference)  
+  ### **ACTIVE PROJECTS**  
+1. **`rm -rf /meaning`** *(WIP)*  
+2. **`forkbomb_the_universe()`** *(RFC 6969)*  
+3. **`sudo chown me:god /etc/destiny`** *(Permission denied)*  
+
+### **LAST COMMIT**  
+"sudo make me_a_sandwich"
+```diff  
+- printf("Goodbye, cruel kernel.\n");  
++ while (1) { vibe_check(); } // Infinite loop  
 <br><br>
 
 
