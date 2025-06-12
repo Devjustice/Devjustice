@@ -22,7 +22,7 @@
 
 ## Programming is delusion
 <br>
-Computer can do some trick but You don not. 
+Computer can do some tricks but You do not. 
 CPU makes people to believe they do anything without GOD,The Lord, and Holy Sprit
 <br>
 
